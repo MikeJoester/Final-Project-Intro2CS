@@ -45,6 +45,5 @@ No. | Dataset | Max score|
   1 | data_steam_small.csv | **5** points
   2 | data_steam_medium.csv | **3.5** points
   3 | data_steam_large.csv | **1.5** points
-  ------------ | :------------: | ------------- 
-  **Total** | 10 points
+  **Total** || 10 points
 
