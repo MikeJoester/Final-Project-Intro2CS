@@ -27,7 +27,7 @@ Made by Nguyen The Dan - VNUK's CSE20 student
   No. | Dataset | Length | 
   ------------ | ------------ | ------------- 
   1 | data_steam_small.csv | 10.000 lines
-  2 | data_steam_mediume.csv | 1.000.000 lines
+  2 | data_steam_medium.csv | 1.000.000 lines
   3 | data_steam_large.csv | ~21.700.000 lines
 
 ## Requirements:
@@ -42,7 +42,7 @@ Made by Nguyen The Dan - VNUK's CSE20 student
 There are total 10 questions, each question will have the total score of 10 with three levels of difficulties:
 No. | Dataset | Max score| 
   ------------ | ------------ | ------------- 
-  1 | data_steam_small.csv | 5 points
-  2 | data_steam_mediume.csv | 3.5 points
-  3 | data_steam_large.csv | 1.5 points
+  1 | data_steam_small.csv | **5 points**
+  2 | data_steam_medium.csv | **3.5 points**
+  3 | data_steam_large.csv | **1.5 points**
 
