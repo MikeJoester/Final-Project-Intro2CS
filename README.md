@@ -1,7 +1,8 @@
 # Final-Project-Intro2CS
 Made by Nguyen The Dan - VNUK's CSE20 student
 
-###Data: 
+### Data: 
+
 To complete these tasks, you will be provided the dataset of around 21.7 million user reviews of around 300 different games on Steam in 2021, with provided columns:
 
   * app_id --> The game's ID
