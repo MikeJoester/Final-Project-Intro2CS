@@ -24,7 +24,7 @@ Made by Nguyen The Dan - VNUK's CSE20 student
   - **author.playtime_forever** --> The total hours the author spent on playing that game
   
 - The data is provided in three files in [this Google Drive Folder](https://drive.google.com/drive/folders/1pVFPfh-mUGuUgl80saViOk7kfzkV8_IZ?usp=sharing) :
-  No. | Files | Length | 
+  No. | Dataset | Length | 
   ------------ | ------------ | ------------- 
   1 | data_steam_small.csv | 10.000 lines
   2 | data_steam_mediume.csv | 1.000.000 lines
@@ -37,4 +37,12 @@ Made by Nguyen The Dan - VNUK's CSE20 student
   2 | Code can run as required | 50
   3 | [Code styling](https://www.python.org/dev/peps/pep-0008/) | 15
   4 | Code performance ( measured by milliseconds ) | 10
+
+## Questions:
+There are total 10 questions, each question will have the total score of 10 with three levels of difficulties:
+No. | Dataset | Max score| 
+  ------------ | ------------ | ------------- 
+  1 | data_steam_small.csv | 5 points
+  2 | data_steam_mediume.csv | 3.5 points
+  3 | data_steam_large.csv | 1.5 points
 
