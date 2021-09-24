@@ -46,4 +46,9 @@ No. | Dataset | Max score|
   2 | data_steam_medium.csv | **3.5** points
   3 | data_steam_large.csv | **1.5** points
   **Total** || 10 points
+  | | Grouping ||
+First Header | Second Header | Third Header |
+------------ | :-----------: | -----------: |
+Content | Long Cell ||
+Content | Cell | Cell |
 
