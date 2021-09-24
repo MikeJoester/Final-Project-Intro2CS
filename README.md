@@ -24,8 +24,17 @@ Made by Nguyen The Dan - VNUK's CSE20 student
   - author.playtime_forever --> The total hours the author spent on playing that game
   
 - The data is provided in three files in [this Google Drive Folder](https://drive.google.com/drive/folders/1pVFPfh-mUGuUgl80saViOk7kfzkV8_IZ?usp=sharing) :
-  Files | Length | 
-  ------------ | ------------- 
-  data_steam_small.csv | 10.000 lines
-  data_steam_mediume.csv | 1.000.000 lines
-  data_steam_large.csv | ~21.700.000 lines
+  No. | Files | Length | 
+  ------------ | ------------ | ------------- 
+  1 | data_steam_small.csv | 10.000 lines
+  2 | data_steam_mediume.csv | 1.000.000 lines
+  3 | data_steam_large.csv | ~21.700.000 lines
+
+## Requirements:
+  No. | Criteria | Weight (%)| 
+  ------------ | ------------ | ------------- 
+  1 | Write the functions by your own code, do not use the functions in the library if not required | 25
+  2 | Code can run as required | 50
+  3 | [Code styling](https://www.python.org/dev/peps/pep-0008/) | 15
+  4 | Code performance ( measured by milliseconds ) | 10
+
