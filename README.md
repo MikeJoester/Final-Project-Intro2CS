@@ -43,6 +43,9 @@ Made by Nguyen The Dan - VNUK's CSE20 student
   1. Import essential and visualization libraries / packages: numpy, pandas, statistics, matplotlib, seaborn;
   2. Read in the csv files as a dataframe called **df_small, df_medium, df_large**; check the information of the imported csv files and print the first 5 rows of each dataframes.
 ### B. Basic Questions:
+  1. Find out the most reviewed game of each dataset
+  2. Code min, max, mean functions to find the **smallest, largest, average** of gaming hours of a game
+  3. Find out the most reviewed **non - english** language in each dataset
 ### C. Algorithms:
 ### D. Chart illustration:
 
