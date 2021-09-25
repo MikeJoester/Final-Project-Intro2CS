@@ -42,10 +42,11 @@ Made by Nguyen The Dan - VNUK's CSE20 student
 ### A. Data and setup:
   1. Import essential and visualization libraries / packages: numpy, pandas, statistics, matplotlib, seaborn;
   2. Read in the csv files as a dataframe called **df_small, df_medium, df_large**; check the information of the imported csv files and print the first 5 rows of each dataframes.
+
 ### B. Basic Questions:
-  1. Print the most helpful reivews of each dataset and its review ID
-  2. Type in the game ID, code **min, max, mean** functions to print the **game's name**, and the **smallest, largest, average** gaming hours of it.
-  3. Find out the most reviewed **non - english** language in each dataset
+  1. Type in the game ID and print the most helpful reivews of the game and its review ID in each dataset;
+  2. Type in the game ID, code **min, max, mean** functions to print the **game's name**, and the **smallest, largest, average** gaming hours of it;
+  3. 
 ### C. Algorithms:
 ### D. Chart illustration:
 
