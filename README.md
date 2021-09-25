@@ -39,7 +39,7 @@ Made by Nguyen The Dan - VNUK's CSE20 student
   4 | Code performance ( measured by milliseconds ) | 10
 
 ## Questions:
-There are total 10 questions, each question will have the total score of 10 with three levels of difficulties:
+There are total 10 questions, each question will have the total score of **10** with three levels of difficulties:
 No. | Dataset | Max score| 
   ------------ | ------------ | ------------- 
   1 | data_steam_small.csv | **5** points
