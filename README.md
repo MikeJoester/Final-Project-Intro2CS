@@ -54,5 +54,5 @@ Type in the game ID, and code:
   2. A function to list **five** most recommended games by the players in each dataset;
   3. A sort function to list **ten of the richest players** by ID in each of the dataset (who has a lot of Steam purchases).
 ### D. Chart illustration:
-  1. Draw a pie chart to illustrate the **non - english** languages of the game reviews;
+  1. Draw a pie chart to display all of the languages of the game reviews;
   2. Draw a horizontal bar plots to show the total players of 5 of the most played game in the dataset and their number of **veteran players**.
