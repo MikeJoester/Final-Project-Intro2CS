@@ -47,7 +47,8 @@ Made by Nguyen The Dan - VNUK's CSE20 student
 Type in the game ID, and code:
   1. A function to print the most helpful reivews of the game in each dataset;
   2. **min, max, mean** functions to print the **game's name**, and the **smallest, largest, average** gaming hours of it;
-  3. A function to find out the most reviewed **non - english** language in each dataset.
+
 ### C. Algorithms:
+  1. Code a function to find out the most reviewed **non - english** language in each dataset.
 ### D. Chart illustration:
 
