@@ -41,7 +41,7 @@ Made by Nguyen The Dan - VNUK's CSE20 student
 ## Questions:
 ### A. Data and setup:
   1. Import essential and visualization libraries / packages: numpy, pandas, statistics, matplotlib, seaborn;
-  2. Read in the csv files as a dataframe called df_s, df_m, df_l; check the information of the imported csv files and print the first 5 rows of each dataframes.
+  2. Read in the csv files as a dataframe called **df_s, df_m, df_l**; check the information of the imported csv files and print the first 5 rows of each dataframes.
 ### B. Basic Questions:
 ### C. Algorithms:
 ### D. Chart illustration:
