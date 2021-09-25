@@ -31,12 +31,12 @@ Made by Nguyen The Dan - VNUK's CSE20 student
   3 | data_steam_large.csv | ~21.700.000 lines
 
 ## Requirements:
-  No. | Criteria | Weight (%)| 
+  No. | Criteria | Requirements | 
   ------------ | ------------ | ------------- 
   1 | Write the functions by your own code, do not use the functions in the library if not required | 25
   2 | Code can run as required | 50
-  3 | [Code styling](https://www.python.org/dev/peps/pep-0008/) | 15
-  4 | Code performance ( measured by milliseconds ) | 10
+  3 | [Code styling](https://www.python.org/dev/peps/pep-0008/) | PEP - 8
+  4 | Code performance ( measured by milliseconds ) | Maximum of 10 seconds
 
 ## Questions:
 There are total 10 questions, each question will have the total score of **10** with three levels of difficulties:
