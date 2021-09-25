@@ -33,10 +33,9 @@ Made by Nguyen The Dan - VNUK's CSE20 student
 ## Requirements:
   No. | Criteria | Requirements | 
   ------------ | ------------ | ------------- 
-  1 | Write the functions by your own code, do not use the functions in the library if not required | 25
-  2 | Code can run as required | 50
-  3 | Code styling | [PEP - 8](https://www.python.org/dev/peps/pep-0008/)
-  4 | Code performance ( measured by milliseconds ) | Maximum of 30 seconds
+  1 | Write the functions by your own code | Do not use the functions in the library ( if not required )
+  2 | Code styling | [PEP - 8](https://www.python.org/dev/peps/pep-0008/)
+  3 | Code performance ( measured by milliseconds ) | Maximum of 30 seconds
 
 ## Questions:
 ### A. Data and setup:
