@@ -39,10 +39,14 @@ Made by Nguyen The Dan - VNUK's CSE20 student
   4 | Code performance ( measured by milliseconds ) | Maximum of 10 seconds
 
 ## Questions:
-There are total 10 questions, each question will have the total score of **10** with three levels of difficulties:
-No. | Dataset | Max score| 
-  ------------ | ------------ | ------------- 
-  1 | data_steam_small.csv | **5** points
-  2 | data_steam_medium.csv | **3.5** points
-  3 | data_steam_large.csv | **1.5** points
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
 
