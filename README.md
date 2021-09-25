@@ -55,4 +55,5 @@ Type in the game ID, and code:
   2. A function to list **three** most recommended games by the players in each dataset;
   3. A sort function to find out the most reviewed **non - english** language of the game in each dataset.
 ### D. Chart illustration:
-
+  1. Draw a pie chart to illustrate the **non - english** languages of the game reviews;
+  2. Draw a horizontal bar plots to show the total players of 5 of the most played game in the dataset and their number of **veteran players**.
