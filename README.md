@@ -50,8 +50,8 @@ Type in the game ID, and code:
 
 ### C. Algorithms:
 Type in the game ID, and code:
-  1. A search function to find and count the number of **newbies** (0 to 100 hours), **casual players** (100 to 1000 hours) and **veteran players** (above 1000 hours) of the game in each dataset;
-  2. A function to list **five** most recommended games by the players in each dataset;
+  1. A function to detect prime number, and list all of the review ID that is a prime number;
+  2. A search function to find and count the number of **newbies** (0 to 100 hours), **casual players** (100 to 1000 hours) and **veteran players** (above 1000 hours) of the game in each dataset;
   3. A sort function to list **ten of the richest players** by ID in each of the dataset (who has a lot of Steam purchases).
 ### D. Chart illustration:
   1. Draw a pie chart to display all of the languages of the game reviews;
