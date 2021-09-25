@@ -41,7 +41,7 @@ Made by Nguyen The Dan - VNUK's CSE20 student
 ### A. Data and setup:
   1. Import essential and visualization libraries / packages: numpy, pandas, statistics, matplotlib, seaborn;
   2. Read in the csv files as a dataframe called **df_small, df_medium, df_large**;
-  3. Check the information of the imported csv files and print the **first 5 rows** of each dataframe.
+  3. Print the **last 5 rows** of each dataframe.
 
 ### B. Basic Questions: 
 Type in the game ID, and code:
