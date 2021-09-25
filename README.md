@@ -34,7 +34,7 @@ Made by Nguyen The Dan - VNUK's CSE20 student
   No. | Criteria | Requirements | 
   ------------ | ------------ | ------------- 
   1 | Write the functions by your own code | Do not use the functions in the library ( if not required )
-  2 | Code styling | [PEP - 8](https://www.python.org/dev/peps/pep-0008/)
+  2 | Code styling | Use the [PEP - 8](https://www.python.org/dev/peps/pep-0008/) coding style
   3 | Code performance ( measured by milliseconds ) | Maximum of 30 seconds
 
 ## Questions:
