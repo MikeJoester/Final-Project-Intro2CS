@@ -46,7 +46,7 @@ Made by Nguyen The Dan - VNUK's CSE20 student
 
 ### B. Basic Questions: 
 Type in the game ID, and code:
-  1. A function to print the most helpful reivew of the game in each dataset;
+  1. A function to find the total games in each dataset;
   2. **min, max, mean** functions to print the **game's name**, and the **smallest, largest, average** gaming hours of it in each dataset;
 
 ### C. Algorithms:
