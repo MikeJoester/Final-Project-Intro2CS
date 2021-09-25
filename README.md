@@ -46,7 +46,7 @@ Made by Nguyen The Dan - VNUK's CSE20 student
 ### B. Basic Questions:
   1. Type in the game ID and print the most helpful reivews of the game and its review ID in each dataset;
   2. Type in the game ID, code **min, max, mean** functions to print the **game's name**, and the **smallest, largest, average** gaming hours of it;
-  3. 
+  3. Find out the most reviewed **non - english** language in each dataset.
 ### C. Algorithms:
 ### D. Chart illustration:
 
