@@ -39,14 +39,17 @@ Made by Nguyen The Dan - VNUK's CSE20 student
   4 | Code performance ( measured by milliseconds ) | Maximum of 10 seconds
 
 ## Questions:
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+### 1. Data and setup:
+  - asd
+  - asd
+  - asd
+### 2.
+### 3.
+### 4.
+### 5.
+### 6.
+### 7.
+### 8.
+### 9.
+### 10.
 
