@@ -40,9 +40,9 @@ Made by Nguyen The Dan - VNUK's CSE20 student
 
 ## Questions:
 ### 1. Data and setup:
-  - asd
-  - asd
-  - asd
+  - Import essential libraries / packages: numpy, pandas
+  - Import visualization libraries / packages: statistics, matplotlib, seaborn
+  - Read in the csv files as a dataframe called df_s, df_m, df_l and check the information of the imported csv files
 ### 2.
 ### 3.
 ### 4.
