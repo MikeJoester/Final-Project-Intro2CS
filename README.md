@@ -50,6 +50,8 @@ Type in the game ID, and code:
   2. **min, max, mean** functions to print the **game's name**, and the **smallest, largest, average** gaming hours of it;
 
 ### C. Algorithms:
-  1. Code a function to find out the most reviewed **non - english** language in each dataset.
+Type in the game ID, and code:
+  1. A function to count the number of newbies (0 to 100 hours), casual players (100 to 1000 hours) and veteran players (above 1000 hours) of the game;
+  2. A function to find out the most reviewed **non - english** language in each dataset.
 ### D. Chart illustration:
 
