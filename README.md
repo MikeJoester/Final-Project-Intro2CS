@@ -45,14 +45,14 @@ Made by Nguyen The Dan - VNUK's CSE20 student
 
 ### B. Basic Questions: 
 Type in the game ID, and code:
-  1. A function to count different games in each dataset;
+  1. A function to count the number of games in each dataset;
   2. **min, max, mean** functions to print the **game's name**, and the **smallest, largest, average** gaming hours of it in each dataset;
 
 ### C. Algorithms:
 Type in the game ID, and code:
   1. A search function to find and count the number of **newbies** (0 to 100 hours), **casual players** (100 to 1000 hours) and **veteran players** (above 1000 hours) of the game in each dataset;
   2. A function to list **three** most recommended games by the players in each dataset;
-  3. A sort function to find out the most reviewed **non - english** language of the game in each dataset.
+  3. A sort function to find out the richest player in the dataset (who has a lot of Steam purchases).
 ### D. Chart illustration:
   1. Draw a pie chart to illustrate the **non - english** languages of the game reviews;
   2. Draw a horizontal bar plots to show the total players of 5 of the most played game in the dataset and their number of **veteran players**.
