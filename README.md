@@ -45,14 +45,14 @@ Made by Nguyen The Dan - VNUK's CSE20 student
 
 ### B. Basic Questions: 
 Type in the game ID, and code:
-  1. A function to count the number of games in each datasets;
-  2. **min, max, mean** functions to print the **game's name**, and the **smallest, largest, average** gaming hours of it in each datasets;
+  4. A function to count the number of games in each datasets;
+  5. **min, max, mean** functions to print the **game's name**, and the **smallest, largest, average** gaming hours of it in each datasets;
 
 ### C. Algorithms:
 Type in the game ID, and code:
-  1. A function to detect prime number, and list all of the review IDs that is a prime number in each datasets;
-  2. A search function to find and count the number of **newbies** (0 to 100 hours), **casual players** (100 to 1000 hours) and **veteran players** (above 1000 hours) of the game in each datasets;
-  3. A sort function to list **ten of the richest players** by ID in each of the datasets (who has a lot of Steam purchases).
+  6. A function to detect prime number, and list all of the review IDs that is a prime number in each datasets;
+  7. A search function to find and count the number of **newbies** (0 to 100 hours), **casual players** (100 to 1000 hours) and **veteran players** (above 1000 hours) of the game in each datasets;
+  8. A sort function to list **ten of the richest players** by ID in each of the datasets (who has a lot of Steam purchases).
 ### D. Chart illustration:
-  1. Draw a pie chart to display all of the languages of the game reviews;
-  2. Draw a horizontal bar plots to show the total players of 5 of the most played game in the dataset and their number of **veteran players**.
+  9. Draw a pie chart to display all of the languages of the game reviews;
+  10. Draw a horizontal bar plots to show the total players of 5 of the most played game in the dataset and their number of **veteran players**.
