@@ -55,4 +55,4 @@ Type in the game ID, and code:
   3. A sort function to list **ten of the richest players** by ID in each of the datasets (who has a lot of Steam purchases).
 ### D. Chart illustration:
   1. Draw a pie chart to display all of the languages of the game reviews (You can use pandas's **value_counts** function);
-  2. Draw a horizontal bar plots to show the total players of 5 of the most played game in the dataset and their **types of players (Newbies, Casuals and Veterans)**.
+  2. Draw a horizontal bar plots to show the total players of 5 of the most reviewed game in the dataset and their **types of players (Newbies, Casuals and Veterans)**.
