@@ -54,5 +54,5 @@ Type in the game ID, and code:
   2. A search function to find and count the number of **newbies** (0 to 100 hours), **casual players** (100 to 1000 hours) and **veteran players** (above 1000 hours) of the game in each datasets;
   3. A sort function to list **ten of the richest players** by ID in each of the datasets (who has a lot of Steam purchases).
 ### D. Chart illustration:
-  1. Draw a pie chart to display all of the languages of the game reviews;
+  1. Draw a pie chart to display all of the languages of the game reviews (You can use Pandas count() function);
   2. Draw a horizontal bar plots to show the total players of 5 of the most played game in the dataset and their number of **veteran players**.
