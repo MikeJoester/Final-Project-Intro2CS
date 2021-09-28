@@ -23,7 +23,7 @@ Made by Nguyen The Dan - VNUK's CSE20 student
   
   - **author.playtime_forever** --> The total hours the author spent on playing that game
   
-- The data is provided in three files in [this Google Drive Folder](https://drive.google.com/drive/folders/1pVFPfh-mUGuUgl80saViOk7kfzkV8_IZ?usp=sharing) :
+- The data is provided in three files in [this Google Drive Folder](https://drive.google.com/drive/folders/1pVFPfh-mUGuUgl80saViOk7kfzkV8_IZ?usp=sharing):
   No. | Dataset | Length | Size 
   ------------ | ------------ | ------------- | -------------
   1 | data_steam_small.csv | 10.000 lines | 788 KB
@@ -39,7 +39,7 @@ Made by Nguyen The Dan - VNUK's CSE20 student
 
 ## Questions:
 ### A. Data and setup:
-  1. Import essential and visualization libraries / packages: numpy, pandas, statistics, matplotlib, seaborn;
+  1. Import essential and visualization libraries / packages: numpy, pandas, matplotlib;
   2. Read in the csv files as a dataframe called **df_small, df_medium, df_large**;
   3. Print the **last 5 rows** of each dataframe.
 
