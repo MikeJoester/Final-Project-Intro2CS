@@ -1,7 +1,7 @@
 # Final-Project-Intro2CS
 Made by Nguyen The Dan - VNUK's CSE20 student
 
-## Data: 
+## I. Data: 
 
 - To complete these tasks, you will be provided the dataset of around 21.7 million user reviews of around 300 different games on Steam in 2021, with provided columns:
 
@@ -30,14 +30,14 @@ Made by Nguyen The Dan - VNUK's CSE20 student
   2 | data_steam_medium.csv | 1.000.000 lines | 76,9 MB
   3 | data_steam_large.csv | ~21.700.000 lines | 1,63 GB
 
-## Requirements:
+## II. Requirements:
   No. | Criteria | Requirements | 
   ------------ | ------------ | ------------- 
   1 | Write the functions by your own code | Do not use the functions in the library ( if not required )
   2 | Code styling | Use the [PEP - 8](https://www.python.org/dev/peps/pep-0008/) coding style
   3 | Code performance ( measured by seconds ) | Maximum of 30 seconds
 
-## Questions:
+## III. Questions:
 ### A. Data and setup:
   1. Import essential and visualization libraries / packages: numpy, pandas, matplotlib;
   2. Read in the csv files as a dataframe called **df_small, df_medium, df_large**;
