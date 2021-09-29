@@ -1,5 +1,7 @@
 # Final-Project-Intro2CS
-Made by Nguyen The Dan - VNUK's CSE20 student
+Made by Nguyen The Dan - 20020006 
+
+VNUK's CSE20 student
 
 ## I. Data: 
 
