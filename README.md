@@ -59,3 +59,10 @@ Type in the game ID, and code:
 ### D. Chart illustration:
   1. Draw pie charts to display all of the languages of the game reviews (You can use pandas's **value_counts** function); (M)
   2. Draw bar plots to show the total players of 5 of the most reviewed game in the dataset and their **three types of players (Newbies, Casuals and Veterans)**. (H)
+
+## IV. Contacts:
+ **Dan Nguyen :**
+```
+Email: dan.nguyen200206@vnuk.edu.vn
+LinkedIn: dan-nguyen-2904
+```
